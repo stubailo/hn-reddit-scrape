@@ -1,4 +1,4 @@
-Title,Link,Rank,Score,User,Time,Source,Date Scraped,Reddit?
+title,link,rank,score,user,time,source,date_scraped,is_reddit
 Introducing the ‘mozjpeg’ Project,https://blog.mozilla.org/research/2014/03/05/introducing-the-mozjpeg-project/,1,153,joshmoz,1394046005,hackernews,1394053203,false
 Stripe Checkout,https://stripe.com/checkout,2,47,strzalek,1394051105,hackernews,1394053203,false
 "When Airlines Screw Up Your Flight, AirHelp (YC W14) Gets You Paid",http://techcrunch.com/2014/03/05/when-airlines-screw-up-your-flight-airhelp-gets-you-paid/,3,41,nicomichaelsen,1394049605,hackernews,1394053203,false

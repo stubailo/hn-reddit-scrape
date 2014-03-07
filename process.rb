@@ -3,7 +3,7 @@ require "json"
 require "csv"
 
 CSV.open("out.csv", "wb") do |csv|
-  csv << ["Title", "Link", "Rank", "Score", "User", "Time", "Source", "Date Scraped", "Reddit?"]
+  csv << ["title", "link", "rank", "score", "user", "time", "source", "date_scraped", "is_reddit"]
 
   Dir.foreach("json") do |name|
     unless name.start_with? "."
