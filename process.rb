@@ -25,7 +25,7 @@ CSV.open("out.csv", "wb") do |csv|
 
               title = post_data["title"]
               link = post_data["url"]
-              rank = index
+              rank = index + 1
               score = post_data["score"]
               user = post_data["author"]
               time = post_data["created_utc"]
