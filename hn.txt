@@ -14,7 +14,7 @@ Every Quadrotor Needs This Failsafe Software
 Mathematicians are chronically lost and confused 
 Using OpenSSH Certificate Authentication
 Vizify acquired by Yahoo
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 SideCar s Kalman Filter models San Francisco brunch
 I want to get into startups  but I don t know where to start
 US prosecutors drop link related charges from Barrett Brown case 
@@ -37,7 +37,7 @@ Rubygems org AWS bill for Feb 2014  pdf
 Get Started with GoJS
 The Indian sanitary pad revolutionary
 A vast hidden surveillance network  powered by the repo industry
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
 The Meta Marketing of  The Lego Movie 
 The Most Powerful Sales Tool at Lowe s  Satellites
 Arscoin  our own custom cryptocurrency
@@ -59,8 +59,8 @@ Why Google Fiber will never come to Seattle
 Congressman Calls To Ban U S  Dollar In Response To Plea For Bitcoin Ban
 Develop and deploy an app with Fig  Orchard and Docker
 Why  data science  is dead as a job prospect 
-Show HN  Beander  a platform for micro roasters
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Beander  a platform for micro roasters
+   Startup Quandary   build myself  hire or outsource
  Don t ever call me  and other reporter tips to be press friendly
 Obama knew CIA secretly monitored intelligence committee  senator claims
 How to tell your story to investors
@@ -72,10 +72,10 @@ First Meta CEO found dead in Singapore
 Silk Road Had Digital Outpost in Pennsylvania
 Engineer s Guide to US Visas
 Things You Should Know About Running MongoDB At Scale
-Ask HN  Is anyone building anything big with Meteor 
-Ask HN  My boss lowered my salary to make me more motivated
+   Is anyone building anything big with Meteor 
+   My boss lowered my salary to make me more motivated
 Peer5 Downloader  Peer assisted file downloads using WebRTC
-Show HN  Password Protect My File
+   Password Protect My File
 Mexican Protest Site Censored by GoDaddy with the U S  Embassy s Help
 No more Haml or CoffeeScript
 We hacked Siri on iOS 7 to interface with Spotify  Venmo  other third party apps
@@ -83,7 +83,7 @@ Trading knowledge I accumulated over the last couple of years
 Projection Based Olfactory Display
 How You Get Hundreds Of Twitter Followers In Days
 Goat Simulator heads to Steam April 1
-Ask HN  Do you consider anyone a pioneer in computer science since 1990 
+   Do you consider anyone a pioneer in computer science since 1990 
 Jumpstarter launches  next gen hosting   promising sub second server spin up
 XKCD Now   world time zone converter based on XKCD comic  1335
 Going Through Y Combinator  YC S13   Lessons Learned
@@ -95,7 +95,7 @@ Knockout 3 1 ships
 Microsoft makes it official  We re all in with Android   Computerworld Blogs
 Sprint sued by Feds for fraudulent cellphone tapping overcharge
 Launch Your First Product   What Not to Do
-Show HN  Translate your content directly from Google Drive with the Unbabel API
+   Translate your content directly from Google Drive with the Unbabel API
 Yahoo to End Facebook  Google Sign In on Its Web Properties
 Anthropomorphizing Programming Languages
 Bitcoin firm CEO found dead in suspected suicide
@@ -106,7 +106,7 @@ The Story of the GnuTLS Bug
 Pushbullet for iPhone Released
 Beets   Command line music manager and auto tagger
 Zapier Email Parser  Extract Text From Automated Emails
-Show HN  Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
+   Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
 More than 2800 developers speak out about Java 8
 Tesla Announces Ambitious European Expansion Plans
 Flipboard Is Buying Zite From CNN  And Putting All Of CNN Worldwide On Flipboard
@@ -135,10 +135,10 @@ Japan to regulate Bitcoin trades  impose taxes
 Wallpaper group
 Comcast Indefinitely Extends Low Cost Broadband for Poor Families
 Cryptocat  Now on iPhone
-Show HN  How to install Keen IO Analytics into Node js apps in mere seconds
-Show HN  Pinterest for 3D Printing
+   How to install Keen IO Analytics into Node js apps in mere seconds
+   Pinterest for 3D Printing
 Please Excuse my Grammar
-Ask HN  Automation in IT
+   Automation in IT
 Apple security rules leave inherited iPad useless
 To Those Who Want To Drop Out of School
 Picking up Angular
@@ -162,7 +162,7 @@ Major Changes in SAT Announced by College Board
 The new Checkout
 Mathematicians are chronically lost and confused 
 Every Quadrotor Needs This Failsafe Software
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 Using OpenSSH Certificate Authentication
 I want to get into startups  but I don t know where to start
 Vizify acquired by Yahoo
@@ -193,7 +193,7 @@ Arscoin  our own custom cryptocurrency
 Web Security Training Platform
 Get Started with GoJS
 CIA spied on Senate committee writing damning torture report
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
 Image Background Removal
 Why can we still crack snapchat photos in 12 lines of Ruby 
 Edward Snowden to speak at SXSW
@@ -210,15 +210,15 @@ Taxpayers out  2 million after Colorado Customware software bungle
 C I A  Employees Face New Inquiry Amid Clashes on Detention Program
 Develop and deploy an app with Fig  Orchard and Docker
 Microsoft  NET Apps on OpenShift
-Show HN  Beander  a platform for micro roasters
+   Beander  a platform for micro roasters
 First Meta CEO found dead in Singapore
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 Congressman Calls To Ban U S  Dollar In Response To Plea For Bitcoin Ban
 Why  data science  is dead as a job prospect 
 Downloading Software Safely Is Nearly Impossible
 Obama knew CIA secretly monitored intelligence committee  senator claims
  Don t ever call me  and other reporter tips to be press friendly
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 How to tell your story to investors
 Goodbye Academia
 TDD is Behavior Specification
@@ -234,16 +234,16 @@ Peer5 Downloader  Peer assisted file downloads using WebRTC
 The First Woman to Get a Ph D  in Computer Science From MIT
 Goat Simulator heads to Steam April 1
 No more Haml or CoffeeScript
-Ask HN  Is anyone building anything big with Meteor 
-Show HN  Password Protect My File
+   Is anyone building anything big with Meteor 
+   Password Protect My File
 Mexican Protest Site Censored by GoDaddy with the U S  Embassy s Help
 Launch Your First Product   What Not to Do
-Ask HN  My boss lowered my salary to make me more motivated
+   My boss lowered my salary to make me more motivated
 Rails   The Missing Parts
 Trading knowledge I accumulated over the last couple of years
 Projection Based Olfactory Display
 How You Get Hundreds Of Twitter Followers In Days
-Ask HN  Do you consider anyone a pioneer in computer science since 1990 
+   Do you consider anyone a pioneer in computer science since 1990 
 Jumpstarter launches  next gen hosting   promising sub second server spin up
 XKCD Now   world time zone converter based on XKCD comic  1335
 Bitcoin firm CEO found dead in suspected suicide
@@ -254,7 +254,7 @@ Attorneys for Barrett Brown want case on linking to hacked material dismissed
 Knockout 3 1 ships
 Sprint sued by Feds for fraudulent cellphone tapping overcharge
 A Detailed Introduction To Custom Elements
-Show HN  Translate your content directly from Google Drive with the Unbabel API
+   Translate your content directly from Google Drive with the Unbabel API
 Yahoo to End Facebook  Google Sign In on Its Web Properties
 Anthropomorphizing Programming Languages
 Hum
@@ -265,7 +265,7 @@ The Story of the GnuTLS Bug
 Pushbullet for iPhone Released
 Beets   Command line music manager and auto tagger
 Zapier Email Parser  Extract Text From Automated Emails
-Show HN  Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
+   Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
 More than 2800 developers speak out about Java 8
 Tesla Announces Ambitious European Expansion Plans
 Flipboard Is Buying Zite From CNN  And Putting All Of CNN Worldwide On Flipboard
@@ -274,8 +274,8 @@ CSShake  Some CSS Classes to shake your DOM
 What the undersea cables wiring the Earth look like
 Inside The Facebook WhatsApp Megadeal
 What Is the Time Signature of the Ominous Electronic Score of The Terminator 
-Ask HN  Automation in IT
-Ask HN  Questions for Freelancers Contractors 
+   Automation in IT
+   Questions for Freelancers Contractors 
 Tips for working with JSON APIs
 Axioms and Anchors  Framework for Product Focus
 Chrome and the Linux GPU driver quality
@@ -299,7 +299,7 @@ Stripe Checkout
 Introducing the  mozjpeg  Project
 Valve has just started the PC games race to zero
 Found it on TechCrunch  Reads like a markov chain generated series of buzzwords 
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 When Airlines Screw Up Your Flight  AirHelp  YC W14  Gets You Paid
 Mozilla is investigating why Dell is charging to install Firefox
 College Board SAT Partnership
@@ -310,7 +310,7 @@ Arduino Sensor Network   Bathroom occupancy detector
 Stick bomb
 GnuTLS considered harmful  2008 
 Mathematicians are chronically lost and confused 
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 SideCar s Kalman Filter models San Francisco brunch
 Every Quadrotor Needs This Failsafe Software
 Using OpenSSH Certificate Authentication
@@ -333,7 +333,7 @@ Flipboard is acquiring Zite from CNN
 Method of Curing AIDS
 Bitcoin exchange CEO found dead in Singapore
 Google s indoor maps arrive in India
-Ask HN  Show us your work in progress
+    us your work in progress
 Clear Sans
 The New Barbie  Meet the Doll with an Average Woman s Proportions
 Glyphr   HTML5 based font editor
@@ -359,7 +359,7 @@ The Command Line Office
 16 year old iOS developer makes Look
 Get Started with GoJS
 BioShock Infinite Lighting 
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
 Broderbund founder donates company archives to National Museum of Play
 Why Google Fiber will never come to Seattle
 BBC News website  responsive design in beta
@@ -373,8 +373,8 @@ Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep
 Microsoft  NET Apps on OpenShift
 Downloading Software Safely Is Nearly Impossible
 Taxpayers out  2 million after Colorado Customware software bungle
-Ask HN  Startup Quandary   build myself  hire or outsource
-Show HN  Beander  a platform for micro roasters
+   Startup Quandary   build myself  hire or outsource
+   Beander  a platform for micro roasters
 Develop and deploy an app with Fig  Orchard and Docker
 Obama knew CIA secretly monitored intelligence committee  senator claims
 Congressman Calls To Ban U S  Dollar In Response To Plea For Bitcoin Ban
@@ -382,7 +382,7 @@ Goodbye Academia
 Why  data science  is dead as a job prospect 
 The First Woman to Get a Ph D  in Computer Science From MIT
 How to debug small programs
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 How to tell your story to investors
 TDD is Behavior Specification
 Swiftype Adds Live Analytics And Other Features For Marketers
@@ -398,19 +398,19 @@ Engineer s Guide to US Visas
 Get a life or face the consequences
 Things You Should Know About Running MongoDB At Scale
 Krita 2 8 0 Released
-Ask HN  Is anyone building anything big with Meteor 
-Show HN  Password Protect My File
+   Is anyone building anything big with Meteor 
+   Password Protect My File
 Mexican Protest Site Censored by GoDaddy with the U S  Embassy s Help
 Launch Your First Product   What Not to Do
-Ask HN  My boss lowered my salary to make me more motivated
+   My boss lowered my salary to make me more motivated
 Rails   The Missing Parts
-Show HN  Translate your content directly from Google Drive with the Unbabel API
+   Translate your content directly from Google Drive with the Unbabel API
 Bitcoin firm CEO found dead in suspected suicide
 Sunsetting MetroTwit  all good things must come to an end
 Trading knowledge I accumulated over the last couple of years
 Projection Based Olfactory Display
 How You Get Hundreds Of Twitter Followers In Days
-Ask HN  Do you consider anyone a pioneer in computer science since 1990 
+   Do you consider anyone a pioneer in computer science since 1990 
 Jumpstarter launches  next gen hosting   promising sub second server spin up
 XKCD Now   world time zone converter based on XKCD comic  1335
 Going Through Y Combinator  YC S13   Lessons Learned
@@ -429,7 +429,7 @@ The Story of the GnuTLS Bug
 Pushbullet for iPhone Released
 Beets   Command line music manager and auto tagger
 Zapier Email Parser  Extract Text From Automated Emails
-Show HN  Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
+   Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
 More than 2800 developers speak out about Java 8
 Tesla Announces Ambitious European Expansion Plans
 Flipboard Is Buying Zite From CNN  And Putting All Of CNN Worldwide On Flipboard
@@ -438,14 +438,14 @@ CSShake  Some CSS Classes to shake your DOM
 What the undersea cables wiring the Earth look like
 Inside The Facebook WhatsApp Megadeal
 What Is the Time Signature of the Ominous Electronic Score of The Terminator 
-Ask HN  Automation in IT
-Ask HN  Questions for Freelancers Contractors 
+   Automation in IT
+   Questions for Freelancers Contractors 
 GnuTLS certificate verification vulnerability announced  CVE 2014 0092 
 Tips for working with JSON APIs
 Axioms and Anchors  Framework for Product Focus
 Stripe Checkout
 Introducing the  mozjpeg  Project
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 When Airlines Screw Up Your Flight  AirHelp  YC W14  Gets You Paid
 Best practices for API versioning 
 Making computer vision easy
@@ -458,7 +458,7 @@ Mathematicians are chronically lost and confused
 GnuTLS considered harmful  2008 
 Netflix disables use of the Chrome developer console
 Every Quadrotor Needs This Failsafe Software
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 Mozilla is investigating why Dell is charging to install Firefox
 SlickEdit Inc  Defeats Uniloc USA Inc  in Patent Infringement Lawsuit
 Using OpenSSH Certificate Authentication
@@ -485,7 +485,7 @@ Glyphr   HTML5 based font editor
 The Indian sanitary pad revolutionary
 US Patent 5676977   Method of Curing AIDS
 Rubygems org AWS bill for Feb 2014  pdf 
-Ask HN  Show us your work in progress
+    us your work in progress
 Open Source Docker Projects
 Planes Landing in Beijing  Video from Space
 The New Barbie  Meet the Doll with an Average Woman s Proportions
@@ -505,7 +505,7 @@ Codekit 2 is out
 Arscoin  our own custom cryptocurrency
 The Command Line Office
 CIA spied on Senate committee writing damning torture report
-Ask HN  Why isn t Erlang more popular 
+   Why isn t Erlang more popular 
 Have you spoken with your lonely friend today 
 Facebook DNS record has been compromised
 Robert Green on the 48 Laws of Power   Joe Rogan Podcast
@@ -514,7 +514,7 @@ BioShock Infinite Lighting
 Broderbund founder donates company archives to National Museum of Play
 Why Google Fiber will never come to Seattle
  19B later  Facebook now wants to own my phone
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
 BBC News website  responsive design in beta
 First Meta CEO found dead in Singapore
 Knockout 3 1 ships
@@ -529,10 +529,10 @@ Edward Snowden to speak at SXSW
 Microsoft  NET Apps on OpenShift
  Don t ever call me  and other reporter tips to be press friendly
 Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 Bing has cars in Silicon Valley 
 This Bluetooth Ring Is Like a Magic Wand on Your Finger
-Show HN  Beander  a platform for micro roasters
+   Beander  a platform for micro roasters
 Taxpayers out  2 million after Colorado Customware software bungle
 Silk Road Had Digital Outpost in Pennsylvania
 Obama knew CIA secretly monitored intelligence committee  senator claims
@@ -541,9 +541,9 @@ Cryptocat  Now on iPhone
 Why  data science  is dead as a job prospect 
 The First Woman to Get a Ph D  in Computer Science From MIT
 How to debug small programs
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 Eventbrite Adds Reserved Seating
-Ask HN  Is anyone building anything big with Meteor 
+   Is anyone building anything big with Meteor 
 AmigaOS inspired website
 How to tell your story to investors
 TDD is Behavior Specification
@@ -560,21 +560,21 @@ Get a life or face the consequences
 Things You Should Know About Running MongoDB At Scale
 Krita 2 8 0 Released
 How You Get Hundreds Of Twitter Followers In Days
-Show HN  Password Protect My File
+   Password Protect My File
 Mexican Protest Site Censored by GoDaddy with the U S  Embassy s Help
 Launch Your First Product   What Not to Do
 Rails   The Missing Parts
 Bitcoin firm CEO found dead in suspected suicide
 Sunsetting MetroTwit  all good things must come to an end
-Ask HN  My boss lowered my salary to make me more motivated
-Show HN  Translate your content directly from Google Drive with the Unbabel API
+   My boss lowered my salary to make me more motivated
+   Translate your content directly from Google Drive with the Unbabel API
 How to Make a No  1 App With  99 and Three Hours of Work
-Show HN  How to install Keen IO Analytics into Node js apps in mere seconds
+   How to install Keen IO Analytics into Node js apps in mere seconds
 Lessons learnt building ViziCities
-Ask HN  Automation in IT
+   Automation in IT
 Trading knowledge I accumulated over the last couple of years
 Projection Based Olfactory Display
-Ask HN  Do you consider anyone a pioneer in computer science since 1990 
+   Do you consider anyone a pioneer in computer science since 1990 
 Jumpstarter launches  next gen hosting   promising sub second server spin up
 XKCD Now   world time zone converter based on XKCD comic  1335
 Going Through Y Combinator  YC S13   Lessons Learned
@@ -593,7 +593,7 @@ Beets   Command line music manager and auto tagger
 Zapier Email Parser  Extract Text From Automated Emails
 Stripe Checkout
 Introducing the  mozjpeg  Project
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 RT Anchor Quits Over Ukraine Coverage  Says Credibility Destroyed
 Best practices for API versioning 
 When Airlines Screw Up Your Flight  AirHelp  YC W14  Gets You Paid
@@ -608,7 +608,7 @@ Stick bomb
 Mathematicians are chronically lost and confused 
 GnuTLS considered harmful  2008 
 Every Quadrotor Needs This Failsafe Software
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 Using OpenSSH Certificate Authentication
 Mozilla is investigating why Dell is charging to install Firefox
 SideCar s Kalman Filter models San Francisco brunch
@@ -639,7 +639,7 @@ US Patent 5676977   Method of Curing AIDS
 The New Barbie  Meet the Doll with an Average Woman s Proportions
 Planes Landing in Beijing  Video from Space
 Peter R s Theory on the Collapse of Mt  Gox
-Ask HN  Show us your work in progress
+    us your work in progress
 Image Background Removal
 A vast hidden surveillance network  powered by the repo industry
 LSD  Reconsidered for Therapy
@@ -661,7 +661,7 @@ Get Started with GoJS
  19B later  Facebook now wants to own my phone
 Google Disavow used as threat against Seattle Bubble
 BBC News website  responsive design in beta
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
 Federal prosecutors have dropped 11 of the 13 charges against Barrett Brown
 The world s largest photo service just made its pictures free to use
 CIA spied on Senate committee writing damning torture report
@@ -679,11 +679,11 @@ Edward Snowden to speak at SXSW
 Microsoft  NET Apps on OpenShift
  Don t ever call me  and other reporter tips to be press friendly
 Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 Bing has cars in Silicon Valley 
 Obama knew CIA secretly monitored intelligence committee  senator claims
 This Bluetooth Ring Is Like a Magic Wand on Your Finger
-Show HN  Beander  a platform for micro roasters
+   Beander  a platform for micro roasters
 Taxpayers out  2 million after Colorado Customware software bungle
 Silk Road Had Digital Outpost in Pennsylvania
 Congressman Calls To Ban U S  Dollar In Response To Plea For Bitcoin Ban
@@ -693,11 +693,11 @@ We hacked Siri on iOS 7 to interface with Spotify  Venmo  other third party apps
 Why  data science  is dead as a job prospect 
 The First Woman to Get a Ph D  in Computer Science From MIT
 How to debug small programs
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 Eventbrite Adds Reserved Seating
-Ask HN  Is anyone building anything big with Meteor 
+   Is anyone building anything big with Meteor 
 AmigaOS inspired website
-Ask HN  My boss lowered my salary to make me more motivated
+   My boss lowered my salary to make me more motivated
 How to tell your story to investors
 TDD is Behavior Specification
 Swiftype Adds Live Analytics And Other Features For Marketers
@@ -712,22 +712,22 @@ Get a life or face the consequences
 Things You Should Know About Running MongoDB At Scale
 Krita 2 8 0 Released
 How You Get Hundreds Of Twitter Followers In Days
-Show HN  Password Protect My File
+   Password Protect My File
 Mexican Protest Site Censored by GoDaddy with the U S  Embassy s Help
 Launch Your First Product   What Not to Do
 Rails   The Missing Parts
 Bitcoin firm CEO found dead in suspected suicide
 Sunsetting MetroTwit  all good things must come to an end
-Show HN  Translate your content directly from Google Drive with the Unbabel API
+   Translate your content directly from Google Drive with the Unbabel API
 How to Make a No  1 App With  99 and Three Hours of Work
-Show HN  How to install Keen IO Analytics into Node js apps in mere seconds
+   How to install Keen IO Analytics into Node js apps in mere seconds
 Lessons learnt building ViziCities
-Ask HN  Automation in IT
+   Automation in IT
 GnuTLS certificate verification vulnerability announced  CVE 2014 0092 
-Ask HN  Heroku or AWS or 
+   Heroku or AWS or 
 Trading knowledge I accumulated over the last couple of years
 Projection Based Olfactory Display
-Ask HN  Do you consider anyone a pioneer in computer science since 1990 
+   Do you consider anyone a pioneer in computer science since 1990 
 Jumpstarter launches  next gen hosting   promising sub second server spin up
 XKCD Now   world time zone converter based on XKCD comic  1335
 Going Through Y Combinator  YC S13   Lessons Learned
@@ -740,7 +740,7 @@ Hum
 Humble Bundle Post Mortem
 Stripe Checkout
 Introducing the  mozjpeg  Project
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 Best practices for API versioning 
 Getty Images makes its images free to use
 Netflix disables use of the Chrome developer console
@@ -756,7 +756,7 @@ Mathematicians are chronically lost and confused
 GnuTLS considered harmful  2008 
 Stanford Takes Away A Grad s MBA Degree
 Every Quadrotor Needs This Failsafe Software
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 Using OpenSSH Certificate Authentication
 2014 Goals
 Short term Profit Taking vs  Long term Value Creation  The Future of PayPal
@@ -795,7 +795,7 @@ A vast hidden surveillance network  powered by the repo industry
 The Best Tools for UI Hacking  not jsFiddle 
 The Most Powerful Sales Tool at Lowe s  Satellites
 Why can we still crack snapchat photos in 12 lines of Ruby 
-Ask HN  Show us your work in progress
+    us your work in progress
 The Meta Marketing of  The Lego Movie 
 The Command Line Office
 Web Security Training Platform
@@ -811,11 +811,11 @@ Leaked  Kiev snipers hired by Maidan leaders   Estonian FM to EU s Ashton
 Federal prosecutors have dropped 11 of the 13 charges against Barrett Brown
 Open Source Docker Projects
  19B later  Facebook now wants to own my phone
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
 Get Started with GoJS
 BBC News website  responsive design in beta
 The Story of the GnuTLS Bug
-Ask HN  Is their a website that documents the tech stacks at YC startups
+   Is their a website that documents the tech stacks at YC startups
 Google Disavow used as threat against Seattle Bubble
 Attorneys for Barrett Brown want case on linking to hacked material dismissed
 CIA spied on Senate committee writing damning torture report
@@ -823,7 +823,7 @@ The world s largest photo service just made its pictures free to use
 First Meta CEO found dead in Singapore
 Knockout 3 1 ships
 Bitcoin CEO Found dead
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 Tinkercoin Will Sell You  20 in Bitcoin  But Only Once
 Obama knew CIA secretly monitored intelligence committee  senator claims
 Dell charges  16 TO INSTALL FIREFOX on PCs
@@ -840,7 +840,7 @@ Microsoft  NET Apps on OpenShift
 Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep
 Bing has cars in Silicon Valley 
 This Bluetooth Ring Is Like a Magic Wand on Your Finger
-Show HN  Beander  a platform for micro roasters
+   Beander  a platform for micro roasters
 Taxpayers out  2 million after Colorado Customware software bungle
 Silk Road Had Digital Outpost in Pennsylvania
 Cryptocat  Now on iPhone
@@ -850,11 +850,11 @@ No more Haml or CoffeeScript
 Why  data science  is dead as a job prospect 
 The First Woman to Get a Ph D  in Computer Science From MIT
 How to debug small programs
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 Eventbrite Adds Reserved Seating
-Ask HN  Is anyone building anything big with Meteor 
+   Is anyone building anything big with Meteor 
 AmigaOS inspired website
-Ask HN  My boss lowered my salary to make me more motivated
+   My boss lowered my salary to make me more motivated
 How to tell your story to investors
 TDD is Behavior Specification
 Swiftype Adds Live Analytics And Other Features For Marketers
@@ -868,21 +868,21 @@ Get a life or face the consequences
 Things You Should Know About Running MongoDB At Scale
 Krita 2 8 0 Released
 How You Get Hundreds Of Twitter Followers In Days
-Show HN  Password Protect My File
+   Password Protect My File
 Mexican Protest Site Censored by GoDaddy with the U S  Embassy s Help
 Launch Your First Product   What Not to Do
 Rails   The Missing Parts
 Bitcoin firm CEO found dead in suspected suicide
 Sunsetting MetroTwit  all good things must come to an end
-Show HN  Translate your content directly from Google Drive with the Unbabel API
+   Translate your content directly from Google Drive with the Unbabel API
 How to Make a No  1 App With  99 and Three Hours of Work
-Show HN  How to install Keen IO Analytics into Node js apps in mere seconds
+   How to install Keen IO Analytics into Node js apps in mere seconds
 Lessons learnt building ViziCities
-Ask HN  Questions for Freelancers Contractors 
-Ask HN  Automation in IT
+   Questions for Freelancers Contractors 
+   Automation in IT
 GnuTLS certificate verification vulnerability announced  CVE 2014 0092 
-What happened when our OSS project stayed on the front page of HN for 24 hours
-Ask HN  Heroku or AWS or 
+What happened when our OSS project stayed on the front page of  for 24 hours
+   Heroku or AWS or 
 Trading knowledge I accumulated over the last couple of years
 Projection Based Olfactory Display
 Stripe Checkout
@@ -890,7 +890,7 @@ I am not an introvert  I am just busy
 Introducing the  mozjpeg  Project
 Getty Images makes its images free to use
 Anti depressant study results  disturbing 
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 Exist
 Best practices for API versioning 
 SNI and HTTP to HTTPS Redirection for CloudFront
@@ -906,7 +906,7 @@ Stick bomb
 GnuTLS considered harmful  2008 
 Arduino Sensor Network   Bathroom occupancy detector
 Every Quadrotor Needs This Failsafe Software
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 Using OpenSSH Certificate Authentication
 2014 Goals
 Iconic   An Icon System Designed for the Modern Web
@@ -949,7 +949,7 @@ The Meta Marketing of  The Lego Movie
 The Most Powerful Sales Tool at Lowe s  Satellites
 The Command Line Office
 BioShock Infinite Lighting 
-Ask HN  Show us your work in progress
+    us your work in progress
 Web Security Training Platform
 Codekit 2 is out
 Broderbund founder donates company archives to National Museum of Play
@@ -958,7 +958,7 @@ Arscoin  our own custom cryptocurrency
 Bitstamp was hacked 2 weeks ago  and only now are users finding out
 BBC News website  responsive design in beta
 The Story of the GnuTLS Bug
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
 Federal prosecutors have dropped 11 of the 13 charges against Barrett Brown
 Valve has just started the PC games race to zero
 Leaked  Kiev snipers hired by Maidan leaders   Estonian FM to EU s Ashton
@@ -966,7 +966,7 @@ Leaked  Kiev snipers hired by Maidan leaders   Estonian FM to EU s Ashton
 Get Started with GoJS
 Apple CarPlay
 Open Source Docker Projects
-Ask HN  Is their a website that documents the tech stacks at YC startups
+   Is their a website that documents the tech stacks at YC startups
 In case you thought Facebook couldn t get any creepier
 CIA spied on Senate committee writing damning torture report
 Google Disavow used as threat against Seattle Bubble
@@ -979,7 +979,7 @@ First Meta CEO found dead in Singapore
 Knockout 3 1 ships
 Bitcoin CEO Found dead
 Edward Snowden to speak at SXSW
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 Tinkercoin Will Sell You  20 in Bitcoin  But Only Once
 Dell charges  16 TO INSTALL FIREFOX on PCs
 16 year old iOS developer makes Look
@@ -994,22 +994,22 @@ Microsoft  NET Apps on OpenShift
 Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep
 Bing has cars in Silicon Valley 
 This Bluetooth Ring Is Like a Magic Wand on Your Finger
-Show HN  Beander  a platform for micro roasters
+   Beander  a platform for micro roasters
 Taxpayers out  2 million after Colorado Customware software bungle
 Silk Road Had Digital Outpost in Pennsylvania
 Cryptocat  Now on iPhone
 Please Excuse my Grammar
 We hacked Siri on iOS 7 to interface with Spotify  Venmo  other third party apps
 No more Haml or CoffeeScript
-Show HN  Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
+   Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
 Why  data science  is dead as a job prospect 
 The First Woman to Get a Ph D  in Computer Science From MIT
 How to debug small programs
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 Eventbrite Adds Reserved Seating
-Ask HN  Is anyone building anything big with Meteor 
+   Is anyone building anything big with Meteor 
 AmigaOS inspired website
-Ask HN  My boss lowered my salary to make me more motivated
+   My boss lowered my salary to make me more motivated
 How to tell your story to investors
 TDD is Behavior Specification
 Swiftype Adds Live Analytics And Other Features For Marketers
@@ -1023,21 +1023,21 @@ Get a life or face the consequences
 Things You Should Know About Running MongoDB At Scale
 Krita 2 8 0 Released
 How You Get Hundreds Of Twitter Followers In Days
-Show HN  Password Protect My File
+   Password Protect My File
 Launch Your First Product   What Not to Do
 Rails   The Missing Parts
 Bitcoin firm CEO found dead in suspected suicide
 Sunsetting MetroTwit  all good things must come to an end
-Show HN  Translate your content directly from Google Drive with the Unbabel API
+   Translate your content directly from Google Drive with the Unbabel API
 How to Make a No  1 App With  99 and Three Hours of Work
-Show HN  How to install Keen IO Analytics into Node js apps in mere seconds
+   How to install Keen IO Analytics into Node js apps in mere seconds
 Lessons learnt building ViziCities
 I am not an introvert  I am just busy
 Stripe Checkout
 Exist
 Introducing the  mozjpeg  Project
 Getty Images makes its images free to use
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 Anti depressant study results  disturbing 
 Best practices for API versioning 
 SNI and HTTP to HTTPS Redirection for CloudFront
@@ -1055,7 +1055,7 @@ GnuTLS considered harmful  2008
 Arduino Sensor Network   Bathroom occupancy detector
 Every Quadrotor Needs This Failsafe Software
 Using OpenSSH Certificate Authentication
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 Iconic   An Icon System Designed for the Modern Web
 2014 Goals
 Short term Profit Taking vs  Long term Value Creation  The Future of PayPal
@@ -1090,7 +1090,7 @@ Peter R s Theory on the Collapse of Mt  Gox
 The New Barbie  Meet the Doll with an Average Woman s Proportions
 Image Background Removal
 LSD  Reconsidered for Therapy
-Show HN  Optique is a light and simple iPhoto alternative
+   Optique is a light and simple iPhoto alternative
 Android Accounted for 97  of All Mobile Malware in 2013
 Banking without banks
 The Best Tools for UI Hacking  not jsFiddle 
@@ -1106,13 +1106,13 @@ Codekit 2 is out
 Broderbund founder donates company archives to National Museum of Play
 For the first time ever Stanford Takes Away An MBA Degree
 Why Google Fiber will never come to Seattle
-Ask HN  Show us your work in progress
+    us your work in progress
 Arscoin  our own custom cryptocurrency
 Bitstamp was hacked 2 weeks ago  and only now are users finding out
 BBC News website  responsive design in beta
 The Story of the GnuTLS Bug
 Apple CarPlay
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
 In case you thought Facebook couldn t get any creepier
  19B later  Facebook now wants to own my phone
 Get Started with GoJS
@@ -1120,9 +1120,9 @@ Federal prosecutors have dropped 11 of the 13 charges against Barrett Brown
 Valve has just started the PC games race to zero
 Open Source Docker Projects
 Leaked  Kiev snipers hired by Maidan leaders   Estonian FM to EU s Ashton
-Ask Admins  Why is this submission pushed down   Screenshot 
+ Admins  Why is this submission pushed down   Screenshot 
 CIA spied on Senate committee writing damning torture report
-Ask HN  Is their a website that documents the tech stacks at YC startups
+   Is their a website that documents the tech stacks at YC startups
 Google Disavow used as threat against Seattle Bubble
 Attorneys for Barrett Brown want case on linking to hacked material dismissed
 The world s largest photo service just made its pictures free to use
@@ -1133,7 +1133,7 @@ First Meta CEO found dead in Singapore
 Knockout 3 1 ships
 Bitcoin CEO Found dead
 Edward Snowden to speak at SXSW
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 Tinkercoin Will Sell You  20 in Bitcoin  But Only Once
 No bullshit guide to linear algebra
 Dell charges  16 TO INSTALL FIREFOX on PCs
@@ -1149,23 +1149,23 @@ Microsoft  NET Apps on OpenShift
 Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep
 Bing has cars in Silicon Valley 
 This Bluetooth Ring Is Like a Magic Wand on Your Finger
-Show HN  Beander  a platform for micro roasters
+   Beander  a platform for micro roasters
 Taxpayers out  2 million after Colorado Customware software bungle
 Silk Road Had Digital Outpost in Pennsylvania
 Cryptocat  Now on iPhone
 Please Excuse my Grammar
 We hacked Siri on iOS 7 to interface with Spotify  Venmo  other third party apps
 No more Haml or CoffeeScript
-Show HN  Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
-Ask HN  Questions for Freelancers Contractors 
+   Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
+   Questions for Freelancers Contractors 
 Why  data science  is dead as a job prospect 
 The First Woman to Get a Ph D  in Computer Science From MIT
 How to debug small programs
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 Eventbrite Adds Reserved Seating
-Ask HN  Is anyone building anything big with Meteor 
+   Is anyone building anything big with Meteor 
 AmigaOS inspired website
-Ask HN  My boss lowered my salary to make me more motivated
+   My boss lowered my salary to make me more motivated
 How to tell your story to investors
 TDD is Behavior Specification
 Swiftype Adds Live Analytics And Other Features For Marketers
@@ -1186,7 +1186,7 @@ Stripe Checkout
 Hiring collusion in Silicon Valley
 Introducing the  mozjpeg  Project
 Getty Images makes its images free to use
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 SNI and HTTP to HTTPS Redirection for CloudFront
 Best practices for API versioning 
 When Airlines Screw Up Your Flight  AirHelp  YC W14  Gets You Paid
@@ -1205,7 +1205,7 @@ Arduino Sensor Network   Bathroom occupancy detector
 Every Quadrotor Needs This Failsafe Software
 Using OpenSSH Certificate Authentication
 Iconic   An Icon System Designed for the Modern Web
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 Short term Profit Taking vs  Long term Value Creation  The Future of PayPal
 2014 Goals
  Critical crypto bug leaves Linux  hundreds of apps open to eavesdropping
@@ -1256,13 +1256,13 @@ Listen about Advance Git Tips from Linus Torvalds 2009
 Why Google Fiber will never come to Seattle
 US Patent 5676977   Method of Curing AIDS
 Arscoin  our own custom cryptocurrency
-Ask HN  Show us your work in progress
+    us your work in progress
 The Story of the GnuTLS Bug
 Apple CarPlay
 For the first time ever Stanford Takes Away An MBA Degree
 BBC News website  responsive design in beta
 Bitstamp was hacked 2 weeks ago  and only now are users finding out
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
  19B later  Facebook now wants to own my phone
 First Meta CEO found dead in Singapore
 Attorneys for Barrett Brown want case on linking to hacked material dismissed
@@ -1272,12 +1272,12 @@ In case you thought Facebook couldn t get any creepier
 Valve has just started the PC games race to zero
 Open Source Docker Projects
 Leaked  Kiev snipers hired by Maidan leaders   Estonian FM to EU s Ashton
-Ask Admins  Why is this submission pushed down   Screenshot 
+ Admins  Why is this submission pushed down   Screenshot 
 CIA spied on Senate committee writing damning torture report
-Ask HN  Is their a website that documents the tech stacks at YC startups
+   Is their a website that documents the tech stacks at YC startups
 Google Disavow used as threat against Seattle Bubble
 Obama knew CIA secretly monitored intelligence committee  senator claims
-Show HN  Optique is a light and simple iPhoto alternative
+   Optique is a light and simple iPhoto alternative
 The world s largest photo service just made its pictures free to use
 Mexican Protest Site Censored by GoDaddy with the U S  Embassy s Help
 Obama knew CIA secretly monitored intelligence committee  senator claims
@@ -1285,12 +1285,12 @@ Algebraic and calculus concepts may be better way to introduce children to math
 Knockout 3 1 ships
 Bitcoin CEO Found dead
 Edward Snowden to speak at SXSW
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 Tinkercoin Will Sell You  20 in Bitcoin  But Only Once
 No bullshit guide to linear algebra
 Coinbase  Overstock com results with BTC are in
 Bing has cars in Silicon Valley 
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 Dell charges  16 TO INSTALL FIREFOX on PCs
 16 year old iOS developer makes Look
 C I A  Employees Face New Inquiry Amid Clashes on Detention Program
@@ -1303,22 +1303,22 @@ Microsoft  NET Apps on OpenShift
  Don t ever call me  and other reporter tips to be press friendly
 Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep
 This Bluetooth Ring Is Like a Magic Wand on Your Finger
-Show HN  Beander  a platform for micro roasters
+   Beander  a platform for micro roasters
 Taxpayers out  2 million after Colorado Customware software bungle
 Silk Road Had Digital Outpost in Pennsylvania
 Cryptocat  Now on iPhone
 Please Excuse my Grammar
 We hacked Siri on iOS 7 to interface with Spotify  Venmo  other third party apps
 No more Haml or CoffeeScript
-Show HN  Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
-Ask HN  Questions for Freelancers Contractors 
-Ask HN  My boss lowered my salary to make me more motivated
-Ask HN  Automation in IT
+   Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
+   Questions for Freelancers Contractors 
+   My boss lowered my salary to make me more motivated
+   Automation in IT
 Why  data science  is dead as a job prospect 
 The First Woman to Get a Ph D  in Computer Science From MIT
 How to debug small programs
 Eventbrite Adds Reserved Seating
-Ask HN  Is anyone building anything big with Meteor 
+   Is anyone building anything big with Meteor 
 AmigaOS inspired website
 How to tell your story to investors
 TDD is Behavior Specification
@@ -1334,7 +1334,7 @@ This website has a lot of unclosed h3 tags
 Hiring collusion in Silicon Valley
 Introducing the  mozjpeg  Project
 Getty Images makes its images free to use
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 SNI and HTTP to HTTPS Redirection for CloudFront
 Best practices for API versioning 
 When Airlines Screw Up Your Flight  AirHelp  YC W14  Gets You Paid
@@ -1352,7 +1352,7 @@ GnuTLS considered harmful  2008
 Help I m being stalked by an online supermarket that wants a  relationship  
 Iconic   An Icon System Designed for the Modern Web
 Arduino Sensor Network   Bathroom occupancy detector
-Show HN  A Speed Reading Bookmarklet
+   A Speed Reading Bookmarklet
 Every Quadrotor Needs This Failsafe Software
 Using OpenSSH Certificate Authentication
  Critical crypto bug leaves Linux  hundreds of apps open to eavesdropping
@@ -1368,7 +1368,7 @@ If The Moon Was Only 1 Pixel
 Mozilla is investigating why Dell is charging to install Firefox
 Vizify acquired by Yahoo
 2 000 NHS Security Vulnerabilities Disclosed
-Ask HN  What do you think of the new TLDs    sexy   tips   guru etc 
+   What do you think of the new TLDs    sexy   tips   guru etc 
 Redis 2 8 7 is out
 Glyphr   HTML5 based font editor
 Rubygems org AWS bill for Feb 2014  pdf 
@@ -1410,11 +1410,11 @@ Android Accounted for 97  of All Mobile Malware in 2013
 Apple CarPlay
 Arscoin  our own custom cryptocurrency
 The Story of the GnuTLS Bug
-Ask HN  Show us your work in progress
+    us your work in progress
 For the first time ever Stanford Takes Away An MBA Degree
 Bitstamp was hacked 2 weeks ago  and only now are users finding out
 BBC News website  responsive design in beta
-EBay is worst run company I have ever seen  Carl Icahn
+EBay is worst run company I have ever seen  Carl Ica
  19B later  Facebook now wants to own my phone
 First Meta CEO found dead in Singapore
 Attorneys for Barrett Brown want case on linking to hacked material dismissed
@@ -1423,14 +1423,14 @@ Federal prosecutors have dropped 11 of the 13 charges against Barrett Brown
 In case you thought Facebook couldn t get any creepier
 Valve has just started the PC games race to zero
 Open Source Docker Projects
-Ask Admins  Why is this submission pushed down   Screenshot 
+ Admins  Why is this submission pushed down   Screenshot 
 Leaked  Kiev snipers hired by Maidan leaders   Estonian FM to EU s Ashton
 No bullshit guide to linear algebra
 CIA spied on Senate committee writing damning torture report
-Ask HN  Is their a website that documents the tech stacks at YC startups
+   Is their a website that documents the tech stacks at YC startups
 Google Disavow used as threat against Seattle Bubble
 Obama knew CIA secretly monitored intelligence committee  senator claims
-Show HN  Optique is a light and simple iPhoto alternative
+   Optique is a light and simple iPhoto alternative
 What Is the Time Signature of the Ominous Electronic Score of The Terminator 
 The world s largest photo service just made its pictures free to use
 Mexican Protest Site Censored by GoDaddy with the U S  Embassy s Help
@@ -1439,11 +1439,11 @@ Algebraic and calculus concepts may be better way to introduce children to math
 Knockout 3 1 ships
 Bitcoin CEO Found dead
 Edward Snowden to speak at SXSW
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 Tinkercoin Will Sell You  20 in Bitcoin  But Only Once
 Coinbase  Overstock com results with BTC are in
 Bing has cars in Silicon Valley 
-Ask HN  Side Projects and Startups
+   Side Projects and Startups
 Spritz   read 500 words per minute without any training
 Dell charges  16 TO INSTALL FIREFOX on PCs
 16 year old iOS developer makes Look
@@ -1457,18 +1457,18 @@ Microsoft  NET Apps on OpenShift
  Don t ever call me  and other reporter tips to be press friendly
 Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep
 This Bluetooth Ring Is Like a Magic Wand on Your Finger
-Show HN  Beander  a platform for micro roasters
+   Beander  a platform for micro roasters
 Taxpayers out  2 million after Colorado Customware software bungle
 Silk Road Had Digital Outpost in Pennsylvania
 Cryptocat  Now on iPhone
 Please Excuse my Grammar
 We hacked Siri on iOS 7 to interface with Spotify  Venmo  other third party apps
 No more Haml or CoffeeScript
-Show HN  Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
-Ask HN  Questions for Freelancers Contractors 
-Ask HN  My boss lowered my salary to make me more motivated
-Ask HN  Automation in IT
-Ask HN  Heroku or AWS or 
+   Nutfund  Bounties for Progress  Startupbus  BTC   Charity  Water
+   Questions for Freelancers Contractors 
+   My boss lowered my salary to make me more motivated
+   Automation in IT
+   Heroku or AWS or 
 Racket 6 0  New package system  new doc CSS  JIT support for ARM
 Why  data science  is dead as a job prospect 
 The First Woman to Get a Ph D  in Computer Science From MIT
@@ -1489,11 +1489,11 @@ We Are All Bitcoin
 How to survive a job you hate
 On Primes and Pluto
 Sean Parker Leaves Founders Fund
-Show HN  Easy SVG charts for your static site  no JavaScript
+   Easy SVG charts for your static site  no JavaScript
 Why Most Unit Testing is Waste  pdf 
 Grid Style Sheets   CSS polyfills from the future
 Spotify acquires The Echo Nest to build a better music discovery engine
-Show HN  Startup Sports Club
+   Startup Sports Club
 Chisel   A collection of LLDB commands to assist debugging iOS apps
 The Face Behind Bitcoin 
 How to be a faster code reviewer
@@ -1516,10 +1516,10 @@ UK Government Websites Spewing Spam
 Getty Images makes its images free to use
 Banter Debuts Anonymous Social Network Focusing On Interests  Not Confessions
 The Observatory of Economic Complexity
-Show HN  SqlSmash  A productivity plugin for Sql Server Management Studio
+   SqlSmash  A productivity plugin for Sql Server Management Studio
 Scala 2 11 0 RC1 is now available
 Why can t there be a trap door under nuclear reactors in case of meltdown 
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
+   Softcover   A publishing platform from the author of the Rails Tutorial
 Access Logs for Elastic Load Balancers
 One dashboard to rule them all  Introducing Virtual Channels
 SimpleCV   Computer Vision platform using Python
@@ -1535,39 +1535,39 @@ Third cryptocurrency exchange becomes hacking victim  loses Bitcoin
 Scala jsFiddle  TodoMVC
 Stalked by an online supermarket that wants a  relationship 
 Stick bomb
-Ask HN  reasonably priced robotic arms
+   reasonably priced robotic arms
 HomeMarks v3 Launches
 Did Newsweek just validate Bitcoin conspiracy theory 
 The iBeacon Protocol and How to Hack It
-Ask Parents of HN  Would you use an  Uber for babysitting   
+ Parents of   Would you use an  Uber for babysitting   
 SNI and HTTP to HTTPS Redirection for CloudFront
 An Open Source Gmail Notifier for Mac OS X
 RT Anchor  I can t be part of network  that whitewashes  Putin s actions
 Professional online Linux classes for all   and the first one is free
 Press chases alleged Bitcoin creator through Los Angeles
-Suggest HN  Please keep hnsearch com up
+Suggest   Please keep search com up
 Peeking into the Java Memory Model
 Creating software for sysops
 Clear Sans
 Major Changes in SAT Announced by College Board
 College Board SAT Partnership
 US airline ditches iPads for Surface 2 tablets
-Ask HN  Have you ever grown a hackathon project into a company 
-Ask HN  High quality music for my game trailer
+   Have you ever grown a hackathon project into a company 
+   High quality music for my game trailer
 Clear app Free for 24hrs
 What Gordon Ramsay Taught Me About American Businessmen
 Study  11  of Americans Think HTML Is an STD
 The Making of the One World Trade Center Panorama
-Ask HN  Why hasn t college changed in the past 100 years 
+   Why hasn t college changed in the past 100 years 
 The cronjob that generates  4 million a year
 Rebuilding the LivingSocial Android App
  Metazoan 1 0    The 1 6 Billion Year Evolution of Cancer
-Tell HN  Meeting Satoshi 
+Tell   Meeting Satoshi 
 IBM s Supercomputer Watson Is Now a Chef With His Own Food Truck
 Using OpenSSH Certificate Authentication
 The Effects of SXSW on Austin Bar Tabs
-Ask HN  Payment Processor for a banned business model 
-Tell HN  PR for Startups
+   Payment Processor for a banned business model 
+Tell   PR for Startups
 GnuTLS considered harmful  2008 
 How to Convince Your Company to Go with Go
 Short term Profit Taking vs  Long term Value Creation  The Future of PayPal
@@ -1582,44 +1582,44 @@ Enable your organization to operate with less information
 The Inverse of Oversight  CIA Spies On Congress
 Trading knowledge I accumulated over the last couple of years
 You re Either Venture Backed or a Lifestyle Business  The Big Lie
-Ask HN  Is their a website that documents the tech stacks at YC startups
-Ask HN  Do you consider anyone a pioneer in computer science since 1990 
-Ask HN  Side Projects and Startups
+   Is their a website that documents the tech stacks at YC startups
+   Do you consider anyone a pioneer in computer science since 1990 
+   Side Projects and Startups
 No country for single women
-Ask HN  Starting at Google in a few weeks  Any tips 
-Ask HN  My boss lowered my salary to make me more motivated
-Dear HN   if php blogging platforms are junk  what do you suggest 
+   Starting at Google in a few weeks  Any tips 
+   My boss lowered my salary to make me more motivated
+Dear    if php blogging platforms are junk  what do you suggest 
 HR leaked my salary  Now my team knows I make 3x they do
 What s gone wrong with democracy 
-Ask HN  What Linux distro do you use for work  and why 
+   What Linux distro do you use for work  and why 
 How to meditate
 Meetup responds to 5 day long DDoS siege
-Ask HN  I can t work anymore  Burnout  I have no idea  What can I do 
+   I can t work anymore  Burnout  I have no idea  What can I do 
 TED com gets a makeover
 Bitcoin creator Satoshi Nakamoto revealed after years of mystery 
 CEO of Bitcoin exchange found dead in Singapore
 Soon college graduate looking at options and for advice 
 Multiple critical Atlassian product vulnerabilities
-Ask HN  Do you think we ll ever be able to trust Bitcoin 
-Ask HN  What s the worst you ve ever screwed up at work 
+   Do you think we ll ever be able to trust Bitcoin 
+   What s the worst you ve ever screwed up at work 
 Why doesn t FB to implement restriction ACL for accessing uploaded photo 
-Ask HN  How do we get our app on Chinese app stores 
-Ask HN  Responsive As A Service  RAAS    Would you take it 
-Ask HN  Decode Youtube 500 page
-Ask HN  Why some usernames in Hacker News are green 
-Ask HN  How to make very small amounts of money   500ish  working remotely 
-Ask HN  What is your hackathon or weekend project software stack 
-Ask HN  What is really wrong with the US economy  really 
-Ask HN  Good math books   activities for children 
+   How do we get our app on Chinese app stores 
+   Responsive As A Service  RAAS    Would you take it 
+   Decode Youtube 500 page
+   Why some usernames in Hacker News are green 
+   How to make very small amounts of money   500ish  working remotely 
+   What is your hackathon or weekend project software stack 
+   What is really wrong with the US economy  really 
+   Good math books   activities for children 
 Difference between JavaScript and Java 
-Ask HN  What is your favorite Linux distro and why 
-Ask HN  Is it worth to start a Startup in the USA for a foreigner 
-Ask HN  Best way to do a coding exercise for a phone screen 
-Ask HN  Any tips for someone working from home for the first time 
-Ask HN  Non tech founders  what are your biggest tech challenges
-Ask HN  WhatsApp for  16B     What for Tesla 
+   What is your favorite Linux distro and why 
+   Is it worth to start a Startup in the USA for a foreigner 
+   Best way to do a coding exercise for a phone screen 
+   Any tips for someone working from home for the first time 
+   Non tech founders  what are your biggest tech challenges
+   WhatsApp for  16B     What for Tesla 
 MMO 2D Competitive Space Action Clone of Cosmic Rift
-Ask HN  What domain registration and DNS service do you use 
+   What domain registration and DNS service do you use 
 Female Computer Scientists Make the Same Salary as Their Male Counterparts
 Dark spot under cockpit of A 10s
 The Europa mission is real and could very well happen
@@ -1636,13 +1636,13 @@ The GitHub Developer Program
 On Primes and Pluto
 Why Most Unit Testing is Waste  pdf 
 F lux updated
-Show HN  Easy SVG charts for your static site  no JavaScript
+   Easy SVG charts for your static site  no JavaScript
 C   Quiz
 Grid Style Sheets   CSS polyfills from the future
 Sean Parker Leaves Founders Fund
 Spotify acquires The Echo Nest to build a better music discovery engine
-Show HN  A home environment sensor from a Raspberry Pi and an e paper device
-Show HN  Startup Sports Club
+   A home environment sensor from a Raspberry Pi and an e paper device
+   Startup Sports Club
 The Face Behind Bitcoin 
 Chisel   A collection of LLDB commands to assist debugging iOS apps
 How to be a faster code reviewer
@@ -1656,7 +1656,7 @@ I am not an introvert  I am just busy
 How to survive a job you hate
 Fixed   The easiest way to fix a parking ticket
 Media Are Pursuing Nakamoto in a Car Chase Across Los Angeles
-Show HN  Furatto version 3 released
+   Furatto version 3 released
 Exist
 ZenPayroll s  YC W12  advice for B2B companies
 Introducing the  mozjpeg  Project
@@ -1670,8 +1670,8 @@ UK Government Websites Spewing Spam
 The Observatory of Economic Complexity
 Why Is Hotel Room Service So Expensive 
 Scala 2 11 0 RC1 is now available
-Show HN  Softcover   A publishing platform from the author of the Rails Tutorial
-Show HN  SqlSmash  A productivity plugin for Sql Server Management Studio
+   Softcover   A publishing platform from the author of the Rails Tutorial
+   SqlSmash  A productivity plugin for Sql Server Management Studio
 We Are All Bitcoin
 One dashboard to rule them all  Introducing Virtual Channels
 SimpleCV   Computer Vision platform using Python
@@ -1696,26 +1696,26 @@ The iBeacon Protocol and How to Hack It
 An Open Source Gmail Notifier for Mac OS X
 Study  11  of Americans Think HTML Is an STD
 Glyphr   HTML5 based font editor
-Ask HN  reasonably priced robotic arms
+   reasonably priced robotic arms
 HomeMarks v3 Launches
 Peeking into the Java Memory Model
 Creating software for sysops
 Major Changes in SAT Announced by College Board
 College Board SAT Partnership
-Suggest HN  Please keep hnsearch com up
+Suggest   Please keep search com up
 Professional online Linux classes for all   and the first one is free
 US airline ditches iPads for Surface 2 tablets
-Ask Parents of HN  Would you use an  Uber for babysitting   
+ Parents of   Would you use an  Uber for babysitting   
 RT Anchor  I can t be part of network  that whitewashes  Putin s actions
-Ask HN  Have you ever grown a hackathon project into a company 
+   Have you ever grown a hackathon project into a company 
 Did Newsweek just validate Bitcoin conspiracy theory 
-Tell HN  Meeting Satoshi 
-Ask HN  High quality music for my game trailer
+Tell   Meeting Satoshi 
+   High quality music for my game trailer
 Clear app Free for 24hrs
 What Gordon Ramsay Taught Me About American Businessmen
 The Making of the One World Trade Center Panorama
 Press chases alleged Bitcoin creator through Los Angeles
-Ask HN  Why hasn t college changed in the past 100 years 
+   Why hasn t college changed in the past 100 years 
 The cronjob that generates  4 million a year
 Rebuilding the LivingSocial Android App
 Beets   Command line music manager and auto tagger
@@ -1723,8 +1723,8 @@ Beets   Command line music manager and auto tagger
 IBM s Supercomputer Watson Is Now a Chef With His Own Food Truck
 Using OpenSSH Certificate Authentication
 The Effects of SXSW on Austin Bar Tabs
-Ask HN  Payment Processor for a banned business model 
-Tell HN  PR for Startups
+   Payment Processor for a banned business model 
+Tell   PR for Startups
 GnuTLS considered harmful  2008 
 How to Convince Your Company to Go with Go
 Short term Profit Taking vs  Long term Value Creation  The Future of PayPal
@@ -1735,37 +1735,37 @@ The Echo Nest Joins Spotify
 Anti depressant study results  disturbing 
 Schoolboy  13  creates nuclear fusion
 A Taste of Racket
-Ask HN  Who is looking for remote job seekers 
+   Who is looking for remote job seekers 
 Making Ideas Happen
 Mopidy   Server which can play music from multiple sources
-Ask HN  Show us your work in progress
+    us your work in progress
 Enable your organization to operate with less information
 The Inverse of Oversight  CIA Spies On Congress
 Trading knowledge I accumulated over the last couple of years
 GnuTLS certificate verification vulnerability announced  CVE 2014 0092 
-Ask HN  Startup Quandary   build myself  hire or outsource
+   Startup Quandary   build myself  hire or outsource
 You re Either Venture Backed or a Lifestyle Business  The Big Lie
-Ask HN  Is their a website that documents the tech stacks at YC startups
-Ask HN  Do you consider anyone a pioneer in computer science since 1990 
-Ask HN  Side Projects and Startups
+   Is their a website that documents the tech stacks at YC startups
+   Do you consider anyone a pioneer in computer science since 1990 
+   Side Projects and Startups
 No country for single women
-Ask HN  Starting at Google in a few weeks  Any tips 
-Ask HN  My boss lowered my salary to make me more motivated
+   Starting at Google in a few weeks  Any tips 
+   My boss lowered my salary to make me more motivated
 What Are the Dangers of Using an Untrusted USB Drive 
-Ask HN  Where are the 750k Bitcoins lost by Mt  Gox 
-Dear HN   if php blogging platforms are junk  what do you suggest 
+   Where are the 750k Bitcoins lost by Mt  Gox 
+Dear    if php blogging platforms are junk  what do you suggest 
 HR leaked my salary  Now my team knows I make 3x they do
 What s gone wrong with democracy 
-Ask HN  What Linux distro do you use for work  and why 
+   What Linux distro do you use for work  and why 
 How to meditate
 Meetup responds to 5 day long DDoS siege
-Ask HN  Why isn t Erlang more popular 
-Show HN  We open sourced our week end product  Read Raptor
-Ask HN  Why do people trust Bitcoin to third parties 
+   Why isn t Erlang more popular 
+   We open sourced our week end product  Read Raptor
+   Why do people trust Bitcoin to third parties 
 I m completely demotivated to work  what can I do 
 Newegg just switched everyone s reviews to use their name on record
-Ask HN  What do you use for a secure email host 
-Ask HN  How do you take time off work 
-Ask HN  I can t work anymore  Burnout  I have no idea  What can I do 
+   What do you use for a secure email host 
+   How do you take time off work 
+   I can t work anymore  Burnout  I have no idea  What can I do 
 TED com gets a makeover
-Show HN  Wagtail  our new Django CMS
+   Wagtail  our new Django CMS
