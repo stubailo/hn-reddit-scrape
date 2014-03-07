@@ -1,0 +1,1178 @@
+[
+  {
+    "title": "Stripe Checkout",
+    "link": "https://stripe.com/checkout",
+    "rank": 1,
+    "score": 286,
+    "user": "strzalek",
+    "time": "2014-03-05-210004"
+  },
+  {
+    "title": "Introducing the ‘mozjpeg’ Project",
+    "link": "https://blog.mozilla.org/research/2014/03/05/introducing-the-mozjpeg-project/",
+    "rank": 2,
+    "score": 253,
+    "user": "joshmoz",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Show HN: Softcover – A publishing platform from the author of the Rails Tutorial",
+    "link": "http://www.softcover.io/",
+    "rank": 3,
+    "score": 63,
+    "user": "mhartl",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "RT Anchor Quits Over Ukraine Coverage, Says Credibility Destroyed",
+    "link": "http://www.slate.com/blogs/weigel/2014/03/05/russia_today_anchor_quits_over_ukraine_coverage_former_host_says_network.html",
+    "rank": 4,
+    "score": 25,
+    "user": "dmazin",
+    "time": "2014-03-06-000004"
+  },
+  {
+    "title": "Best practices for API versioning?",
+    "link": "http://stackoverflow.com/questions/389169/best-practices-for-api-versioning/",
+    "rank": 5,
+    "score": 40,
+    "user": "melvinmt",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "When Airlines Screw Up Your Flight, AirHelp (YC W14) Gets You Paid",
+    "link": "http://techcrunch.com/2014/03/05/when-airlines-screw-up-your-flight-airhelp-gets-you-paid/",
+    "rank": 6,
+    "score": 99,
+    "user": "nicomichaelsen",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Netflix disables use of the Chrome developer console",
+    "link": "http://pastebin.com/Lx5gjXsA",
+    "rank": 7,
+    "score": 60,
+    "user": "just2n",
+    "time": "2014-03-06-000004"
+  },
+  {
+    "title": "Making computer vision easy",
+    "link": "http://simplecv.org/",
+    "rank": 8,
+    "score": 96,
+    "user": "atilev",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Mandela was right: the Foreign Language Effect",
+    "link": "http://mappingignorance.org/2014/02/03/mandela-was-right-the-foreign-language-effect/",
+    "rank": 9,
+    "score": 81,
+    "user": "bane",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Lammily - Average is Beautiful",
+    "link": "https://www.lammily.com/average-is-beautiful",
+    "rank": 10,
+    "score": 17,
+    "user": "rodrigocoelho",
+    "time": "2014-03-06-000004"
+  },
+  {
+    "title": "Major Changes in SAT Announced by College Board",
+    "link": "http://www.nytimes.com/2014/03/06/education/major-changes-in-sat-announced-by-college-board.html?hp&_r=0",
+    "rank": 12,
+    "score": 82,
+    "user": "daegloe",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "College Board SAT Partnership",
+    "link": "https://www.khanacademy.org/sat",
+    "rank": 13,
+    "score": 72,
+    "user": "spicyj",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Arduino Sensor Network – Bathroom occupancy detector",
+    "link": "http://robots.thoughtbot.com/arduino-sensor-network",
+    "rank": 14,
+    "score": 30,
+    "user": "tonyd256",
+    "time": "2014-03-05-220004"
+  },
+  {
+    "title": "Stick bomb",
+    "link": "http://en.wikipedia.org/wiki/Stick_bomb",
+    "rank": 15,
+    "score": 195,
+    "user": "mxfh",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Mathematicians are chronically lost and confused ",
+    "link": "http://j2kun.svbtle.com/mathematicians-are-chronically-lost-and-confused",
+    "rank": 16,
+    "score": 234,
+    "user": "aditgupta",
+    "time": "2014-03-05-120004"
+  },
+  {
+    "title": "GnuTLS considered harmful (2008)",
+    "link": "http://www.openldap.org/lists/openldap-devel/200802/msg00072.html",
+    "rank": 17,
+    "score": 149,
+    "user": "calpaterson",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "Every Quadrotor Needs This Failsafe Software",
+    "link": "http://spectrum.ieee.org/automaton/robotics/aerial-robots/every-quadrotor-needs-this-amazing-failsafe-software#.UxdDHIzx33Y.hackernews",
+    "rank": 18,
+    "score": 106,
+    "user": "spectruman",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "Show HN: A Speed Reading Bookmarklet",
+    "link": "https://gun.io/blog/openspritz-a-free-speed-reading-bookmarklet/",
+    "rank": 19,
+    "score": 53,
+    "user": "Mizza",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Using OpenSSH Certificate Authentication",
+    "link": "http://neocri.me/documentation/using-ssh-certificate-authentication/",
+    "rank": 20,
+    "score": 83,
+    "user": "p4bl0",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Mozilla is investigating why Dell is charging to install Firefox",
+    "link": "http://thenextweb.com/insider/2014/03/05/mozilla-investigating-dell-uk-charging-16-25-install-firefox-says-deal-exists-anyone/",
+    "rank": 21,
+    "score": 68,
+    "user": "tweakz",
+    "time": "2014-03-05-220004"
+  },
+  {
+    "title": "SideCar's Kalman Filter models San Francisco brunch",
+    "link": "http://codeinsider.us/",
+    "rank": 22,
+    "score": 28,
+    "user": "mallyvai",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Vizify acquired by Yahoo",
+    "link": "https://www.vizify.com/yahoo#transition",
+    "rank": 23,
+    "score": 56,
+    "user": "dswiese",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "2014 Goals",
+    "link": "https://wiki.mozilla.org/2014",
+    "rank": 24,
+    "score": 78,
+    "user": "snird",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Short-term Profit Taking vs. Long-term Value Creation: The Future of PayPal",
+    "link": "https://www.linkedin.com/today/post/article/20140305203327-1213-short-term-profit-taking-vs-long-term-value-creation-the-future-of-paypal?trk=nus-cha-roll-art-title",
+    "rank": 25,
+    "score": 18,
+    "user": "nikunjk",
+    "time": "2014-03-05-220004"
+  },
+  {
+    "title": "GettyImages makes its images free to use",
+    "link": "http://vrge.co/1hMOWPY",
+    "rank": 26,
+    "score": 6,
+    "user": "heidijavi",
+    "time": "2014-03-06-000004"
+  },
+  {
+    "title": "US prosecutors drop link-related charges from Barrett Brown case?",
+    "link": "http://www.scribd.com/doc/210801336/17717995604",
+    "rank": 27,
+    "score": 44,
+    "user": "choult",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Iconic – An Icon System Designed for the Modern Web",
+    "link": "https://useiconic.com",
+    "rank": 28,
+    "score": 525,
+    "user": "Anchor",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "I want to get into startups, but I don’t know where to start",
+    "link": "http://blog.42floors.com/want-get-startups-dont-know-start/",
+    "rank": 29,
+    "score": 76,
+    "user": "jaf12duke",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "Cargo-cult typing, or: Objective-C's default type is id",
+    "link": "http://blog.metaobject.com/2014/03/cargo-cult-typing-or-objective-c.html",
+    "rank": 30,
+    "score": 57,
+    "user": "mpweiher",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Redis 2.8.7 is out",
+    "link": "https://groups.google.com/forum/#!msg/redis-db/cdy_85c1b1U/siu7MCYFBy8J",
+    "rank": 31,
+    "score": 75,
+    "user": "daw___",
+    "time": "2014-03-05-150004"
+  },
+  {
+    "title": "Bitcoin exchange CEO found dead in Singapore",
+    "link": "http://www.usatoday.com/story/tech/2014/03/05/bitcoin-exchange-cep-dead-singapore-suspected-suicide/6088787/",
+    "rank": 32,
+    "score": 5,
+    "user": "edw519",
+    "time": "2014-03-06-000004"
+  },
+  {
+    "title": "The top free-to-play monetization tricks",
+    "link": "http://www.gamasutra.com/blogs/RaminShokrizade/20130626/194933/The_Top_F2P_Monetization_Tricks.php",
+    "rank": 33,
+    "score": 128,
+    "user": "wayprogramming",
+    "time": "2014-03-05-110004"
+  },
+  {
+    "title": "2,000 NHS Security Vulnerabilities Disclosed",
+    "link": "http://shkspr.mobi/blog/2014/03/2000-nhs-security-vulnerabilities-disclosed/",
+    "rank": 34,
+    "score": 94,
+    "user": "edent",
+    "time": "2014-03-05-130004"
+  },
+  {
+    "title": "The new Checkout",
+    "link": "https://stripe.com/blog/checkout-new-features",
+    "rank": 36,
+    "score": 34,
+    "user": "tweakz",
+    "time": "2014-03-05-210004"
+  },
+  {
+    "title": " Critical crypto bug leaves Linux, hundreds of apps open to eavesdropping",
+    "link": "http://arstechnica.com/security/2014/03/critical-crypto-bug-leaves-linux-hundreds-of-apps-open-to-eavesdropping/",
+    "rank": 37,
+    "score": 491,
+    "user": "Morgawr",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Clear Sans",
+    "link": "https://01.org/clear-sans",
+    "rank": 38,
+    "score": 456,
+    "user": "hactually",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Flipboard is acquiring Zite from CNN",
+    "link": "http://gigaom.com/2014/03/05/flipboard-is-acquiring-zite-from-cnn-forming-broad-ad-and-content-partnership-with-news-giant/",
+    "rank": 39,
+    "score": 43,
+    "user": "robdoherty2",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "If The Moon Was Only 1 Pixel",
+    "link": "http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+    "rank": 40,
+    "score": 433,
+    "user": "cdevroe",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "The Indian sanitary pad revolutionary",
+    "link": "http://www.bbc.co.uk/news/magazine-26260978",
+    "rank": 41,
+    "score": 761,
+    "user": "debugunit",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "A software engineer's website",
+    "link": "http://clarkduvall.com",
+    "rank": 42,
+    "score": 166,
+    "user": "damandumpsta",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Glyphr - HTML5 based font editor",
+    "link": "http://glyphrstudio.com/",
+    "rank": 43,
+    "score": 230,
+    "user": "darrenkopp",
+    "time": "2014-03-05-020004"
+  },
+  {
+    "title": "IPhone M7 chip counts your steps even after the battery dies",
+    "link": "http://www.iphonehacks.com/2014/03/iphone-5s-m7-chip-battery.html",
+    "rank": 44,
+    "score": 9,
+    "user": "umsm",
+    "time": "2014-03-06-000004"
+  },
+  {
+    "title": "Rubygems.org AWS bill for Feb 2014 [pdf]",
+    "link": "https://www.dropbox.com/s/3v13d2g8klwer3d/AWS%20-%20RubyCentral%20-%20Feb2014.pdf",
+    "rank": 45,
+    "score": 223,
+    "user": "vbrendel",
+    "time": "2014-03-05-020004"
+  },
+  {
+    "title": "Google’s indoor maps arrive in India",
+    "link": "http://thenextweb.com/google/2014/03/05/googles-indoor-maps-arrive-in-india-so-you-dont-get-lost-in-shopping-malls/#!ywa5w",
+    "rank": 46,
+    "score": 33,
+    "user": "ajaxguy",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "US Patent 5676977 – Method of Curing AIDS",
+    "link": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/PTO/srchnum.htm&r=1&f=G&l=50&s1=5676977.PN.&OS=PN/5676977&RS=PN/5676977",
+    "rank": 47,
+    "score": 5,
+    "user": "yinghang",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "The New Barbie: Meet the Doll with an Average Woman’s Proportions",
+    "link": "http://newsfeed.time.com/2014/03/05/the-new-barbie-meet-the-doll-with-an-average-womans-proportions/",
+    "rank": 48,
+    "score": 6,
+    "user": "ajaymehta",
+    "time": "2014-03-05-220004"
+  },
+  {
+    "title": "Planes Landing in Beijing: Video from Space",
+    "link": "https://www.mapbox.com/blog/video-of-beijing-from-space/",
+    "rank": 49,
+    "score": 254,
+    "user": "bsudekum",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Peter R’s Theory on the Collapse of Mt. Gox",
+    "link": "https://bitcointalk.org/index.php?topic=497289.0",
+    "rank": 50,
+    "score": 219,
+    "user": "passepartout",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Ask HN: Show us your work in progress",
+    "link": "item?id=7350288",
+    "rank": 51,
+    "score": 12,
+    "user": "jbrooksuk",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "Image Background Removal",
+    "link": "http://developers.lyst.com/data/images/2014/02/13/background-removal/",
+    "rank": 52,
+    "score": 288,
+    "user": "Peroni",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "A vast hidden surveillance network, powered by the repo industry",
+    "link": "http://betaboston.com/news/2014/03/05/a-vast-hidden-surveillance-network-runs-across-america-powered-by-the-repo-industry/",
+    "rank": 53,
+    "score": 129,
+    "user": "samkline",
+    "time": "2014-03-05-130004"
+  },
+  {
+    "title": "LSD, Reconsidered for Therapy",
+    "link": "http://www.nytimes.com/2014/03/04/health/lsd-reconsidered-for-therapy.html",
+    "rank": 54,
+    "score": 252,
+    "user": "boh",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "The Most Powerful Sales Tool at Lowe's: Satellites",
+    "link": "http://www.businessweek.com/articles/2014-02-26/lowes-most-powerful-sales-tool-satellites",
+    "rank": 55,
+    "score": 27,
+    "user": "1337biz",
+    "time": "2014-03-05-140004"
+  },
+  {
+    "title": "The Best Tools for UI Hacking (not jsFiddle)",
+    "link": "http://williamnewton.co/blog/ui-hacking-in-the-browser/",
+    "rank": 56,
+    "score": 106,
+    "user": "williamnewton",
+    "time": "2014-03-05-030004"
+  },
+  {
+    "title": "The Meta-Marketing of ‘The Lego Movie’",
+    "link": "http://www.nytimes.com/2014/03/02/magazine/the-brilliant-unnerving-meta-marketing-of-the-lego-movie.html",
+    "rank": 57,
+    "score": 112,
+    "user": "ot",
+    "time": "2014-03-05-110004"
+  },
+  {
+    "title": "Why can we still crack snapchat photos in 12 lines of Ruby?",
+    "link": "http://security.stackexchange.com/questions/52584/why-can-we-still-crack-snapchat-photos-in-12-lines-of-ruby",
+    "rank": 58,
+    "score": 60,
+    "user": "trippy_biscuits",
+    "time": "2014-03-05-080004"
+  },
+  {
+    "title": "Valve has just started the PC games race to zero",
+    "link": "http://www.gamesbrief.com/2014/03/valve-has-just-started-the-pc-games-race-to-zero/",
+    "rank": 60,
+    "score": 43,
+    "user": "kayoone",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "Web Security Training Platform",
+    "link": "http://ctf365.com",
+    "rank": 61,
+    "score": 28,
+    "user": "kerosen",
+    "time": "2014-03-05-130004"
+  },
+  {
+    "title": "The Command-Line Office",
+    "link": "http://ebeab.com/2014/03/04/the-command-line-office/",
+    "rank": 62,
+    "score": 116,
+    "user": "marcuskaz",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Open-Source Docker Projects",
+    "link": "http://www.centurylinklabs.com/top-10-open-source-docker-projects/",
+    "rank": 63,
+    "score": 3,
+    "user": "lukashed",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "Codekit 2 is out",
+    "link": "http://incident57.com/codekit/index.html?v=2",
+    "rank": 64,
+    "score": 45,
+    "user": "sebgeelen",
+    "time": "2014-03-05-090004"
+  },
+  {
+    "title": "Bitstamp was hacked 2 weeks ago, and only now are users finding out",
+    "link": "http://blog.tian.io/bitstamp-was-hacked-2-weeks-ago-and-only-now-users-are-finding-out",
+    "rank": 65,
+    "score": 34,
+    "user": "atian",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "BioShock Infinite Lighting ",
+    "link": "http://solid-angle.blogspot.com/2014/03/bioshock-infinite-lighting.html",
+    "rank": 66,
+    "score": 178,
+    "user": "jamesmiller5",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Arscoin, our own custom cryptocurrency",
+    "link": "http://arstechnica.com/business/2014/03/behold-arscoin-our-own-custom-cryptocurrency/",
+    "rank": 67,
+    "score": 106,
+    "user": "AndrewDucker",
+    "time": "2014-03-05-150004"
+  },
+  {
+    "title": "Broderbund founder donates company archives to National Museum of Play",
+    "link": "http://www.joystiq.com/2014/03/04/broderbund-founder-donates-company-archives-to-national-museum-o/",
+    "rank": 68,
+    "score": 98,
+    "user": "evo_9",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Why Google Fiber will never come to Seattle",
+    "link": "http://crosscut.com/2014/03/04/business/118993/google-fiber-never-come-seattle-broadband-internet/",
+    "rank": 69,
+    "score": 122,
+    "user": "davidjade",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Get Started with GoJS",
+    "link": "http://www.gojs.net/latest/learn/index.html",
+    "rank": 70,
+    "score": 6,
+    "user": "simonsarris",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "$19B later, Facebook now wants to own my phone",
+    "link": "http://www.geektime.com/2014/03/05/19b-later-facebook-now-wants-to-owns-my-phone/",
+    "rank": 71,
+    "score": 38,
+    "user": "ilhackernews",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Google Disavow used as threat against Seattle Bubble",
+    "link": "http://timandjeni.com/blog/gordon-sands-threatens-seattle-bubble-google-disavow-comment-spam/",
+    "rank": 72,
+    "score": 8,
+    "user": "zck",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "BBC News website: responsive design in beta",
+    "link": "http://www.bbc.co.uk/blogs/internet/posts/News-responsive-design-in-beta",
+    "rank": 73,
+    "score": 34,
+    "user": "robin_reala",
+    "time": "2014-03-05-100004"
+  },
+  {
+    "title": "EBay is worst-run company I have ever seen: Carl Icahn",
+    "link": "http://www.cnbc.com/id/101467290",
+    "rank": 74,
+    "score": 50,
+    "user": "mathattack",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Federal prosecutors have dropped 11 of the 13 charges against Barrett Brown",
+    "link": "https://www.eff.org/deeplinks/2014/03/eff-statement-dismissal-11-charges-against-barrett-brown",
+    "rank": 75,
+    "score": 3,
+    "user": "hornokplease",
+    "time": "2014-03-05-220004"
+  },
+  {
+    "title": "The world's largest photo service just made its pictures free to use",
+    "link": "http://www.theverge.com/2014/3/5/5475202/getty-images-made-its-pictures-free-to-use",
+    "rank": 76,
+    "score": 4,
+    "user": "coloneltcb",
+    "time": "2014-03-06-000004"
+  },
+  {
+    "title": "CIA spied on Senate committee writing damning torture report",
+    "link": "http://boingboing.net/2014/03/05/cia-spied-on-senate-committee.html",
+    "rank": 77,
+    "score": 15,
+    "user": "tribe",
+    "time": "2014-03-05-210004"
+  },
+  {
+    "title": "First Meta CEO found dead in Singapore",
+    "link": "http://www.cnbc.com/id/101468694",
+    "rank": 78,
+    "score": 7,
+    "user": "protomyth",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Knockout 3.1 ships",
+    "link": "http://knockoutjs.com",
+    "rank": 79,
+    "score": 79,
+    "user": "johnny_reilly",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Dell charges £16 TO INSTALL FIREFOX on PCs",
+    "link": "http://www.theregister.co.uk/2014/03/05/mozilla_probes_dell_over_firefox_installation_claims",
+    "rank": 80,
+    "score": 3,
+    "user": "TheLegace",
+    "time": "2014-03-06-000004"
+  },
+  {
+    "title": "16 year old iOS developer makes Look",
+    "link": "item?id=7350377",
+    "rank": 81,
+    "score": 3,
+    "user": "saoudrizwan",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "C.I.A. Employees Face New Inquiry Amid Clashes on Detention Program",
+    "link": "http://www.nytimes.com/2014/03/05/us/new-inquiry-into-cia-employees-amid-clashes-over-interrogation-program.html",
+    "rank": 82,
+    "score": 37,
+    "user": "intslack",
+    "time": "2014-03-05-070004"
+  },
+  {
+    "title": "Goodbye Academia",
+    "link": "http://anothersb.blogspot.co.uk/2014/02/goodbye-academia.html?m=1",
+    "rank": 83,
+    "score": 301,
+    "user": "andyjohnson0",
+    "time": "2014-03-04-010004"
+  },
+  {
+    "title": "Downloading Software Safely Is Nearly Impossible",
+    "link": "http://noncombatant.org/2014/03/03/downloading-software-safely-is-nearly-impossible/",
+    "rank": 84,
+    "score": 350,
+    "user": "danielsiders",
+    "time": "2014-03-04-010004"
+  },
+  {
+    "title": "Develop and deploy an app with Fig, Orchard and Docker",
+    "link": "https://orchardup.com/blog/develop-and-deploy-an-app-with-fig-and-orchard",
+    "rank": 85,
+    "score": 5,
+    "user": "bfirsh",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Google Fiber to Bring 10 Gigabit Internet in Coming Years",
+    "link": "http://singularityhub.com/2014/03/05/expanded-google-fiber-to-bring-10-gigabit-internet-in-coming-years/",
+    "rank": 86,
+    "score": 4,
+    "user": "sirteno",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Attorneys for Barrett Brown want case on linking to hacked material dismissed",
+    "link": "http://www.theguardian.com/law/2014/mar/04/attorneys-barrett-brown-hyperlink-hacked-material-want-case-dismissed",
+    "rank": 87,
+    "score": 232,
+    "user": "dmazin",
+    "time": "2014-03-05-060004"
+  },
+  {
+    "title": "Edward Snowden to speak at SXSW",
+    "link": "http://www.cnn.com/2014/03/04/us/sxsw-edward-snowden-speaker/index.html?c=tech",
+    "rank": 88,
+    "score": 4,
+    "user": "evo_9",
+    "time": "2014-03-05-220004"
+  },
+  {
+    "title": "Microsoft .NET Apps on OpenShift",
+    "link": "https://www.openshift.com/blogs/microsoft-dot-net-on-openshift",
+    "rank": 89,
+    "score": 8,
+    "user": "OpenShift",
+    "time": "2014-03-05-150004"
+  },
+  {
+    "title": "“Don’t ever call me” and other reporter tips to be press friendly",
+    "link": "http://blog.pressfriendly.com/2014/03/05/dont-ever-call-me-and-other-reporter-tips-to-be-press-friendly/",
+    "rank": 90,
+    "score": 4,
+    "user": "pdenya",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Khan Academy Gets Rare Partnership To Close Wealth Gap In College Test Prep",
+    "link": "http://techcrunch.com/2014/03/05/khan-academy-gets-major-partnership-to-close-rich-advantage-in-college-test-prep/",
+    "rank": 91,
+    "score": 3,
+    "user": "kamens",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Ask HN: Startup Quandary - build myself, hire or outsource",
+    "link": "item?id=7349007",
+    "rank": 92,
+    "score": 8,
+    "user": "artharrison",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Bing has cars in Silicon Valley?",
+    "link": "https://twitter.com/cykho/status/441345223172444160",
+    "rank": 93,
+    "score": 3,
+    "user": "cykho",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "Obama knew CIA secretly monitored intelligence committee, senator claims",
+    "link": "http://www.theguardian.com/world/2014/mar/05/obama-cia-senate-intelligence-committee-torture?CMP=twt_gu",
+    "rank": 94,
+    "score": 23,
+    "user": "denzil_correa",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "This Bluetooth Ring Is Like a Magic Wand on Your Finger",
+    "link": "http://mashable.com/2014/03/03/bluetooth-ring/",
+    "rank": 95,
+    "score": 3,
+    "user": "nagriar",
+    "time": "2014-03-05-230004"
+  },
+  {
+    "title": "Show HN: Beander, a platform for micro-roasters",
+    "link": "http://beander.com",
+    "rank": 96,
+    "score": 5,
+    "user": "the_french",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Taxpayers out $2 million after Colorado Customware software bungle",
+    "link": "http://www.oregonlive.com/portland/index.ssf/2014/03/multnomah_county_out_2_million.html",
+    "rank": 97,
+    "score": 3,
+    "user": "mountaineer",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Silk Road Had Digital Outpost in Pennsylvania",
+    "link": "http://dealbook.nytimes.com/2014/03/04/silk-road-had-digital-outpost-in-pennsylvania/?ref=business",
+    "rank": 98,
+    "score": 4,
+    "user": "hisabness",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Congressman Calls To Ban U.S. Dollar In Response To Plea For Bitcoin Ban",
+    "link": "http://techcrunch.com/2014/03/05/congressman-calls-to-ban-u-s-dollar-in-response-to-bitcoin-ban/",
+    "rank": 99,
+    "score": 96,
+    "user": "milesf",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Cryptocat, Now on iPhone",
+    "link": "https://blog.crypto.cat/2014/03/cryptocat-now-on-iphone/",
+    "rank": 100,
+    "score": 57,
+    "user": "e1ven",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Please Excuse my Grammar",
+    "link": "http://austingwalters.com/please-excuse-my-grammar/",
+    "rank": 101,
+    "score": 35,
+    "user": "lettergram",
+    "time": "2014-03-05-020004"
+  },
+  {
+    "title": "We hacked Siri on iOS 7 to interface with Spotify, Venmo, other third-party apps",
+    "link": "http://thefourloop.com/2014/03/02/we-hacked-siri-to-interface-with-spotify-venmo-and-other-third-party-apps/",
+    "rank": 102,
+    "score": 15,
+    "user": "ggupta13",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Why 'data science' is dead as a job prospect.",
+    "link": "http://slashdot.org/topic/bi/data-science-is-dead/",
+    "rank": 103,
+    "score": 5,
+    "user": "Ritournelle",
+    "time": "2014-03-05-210004"
+  },
+  {
+    "title": "The First Woman to Get a Ph.D. in Computer Science From MIT",
+    "link": "http://www.theatlantic.com/technology/archive/2014/03/the-first-woman-to-get-a-phd-in-computer-science-from-mit/284127/",
+    "rank": 104,
+    "score": 4,
+    "user": "leothekim",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "How to debug small programs",
+    "link": "http://ericlippert.com/2014/03/05/how-to-debug-small-programs/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=how-to-debug-small-programs",
+    "rank": 105,
+    "score": 3,
+    "user": "joeyespo",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Ask HN: Side Projects and Startups",
+    "link": "item?id=7349189",
+    "rank": 106,
+    "score": 4,
+    "user": "amjd",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "Eventbrite Adds Reserved Seating",
+    "link": "http://techcrunch.com/2014/03/05/eventbrite-reserved-seating/",
+    "rank": 107,
+    "score": 17,
+    "user": "phildini",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Ask HN: Is anyone building anything big with Meteor?",
+    "link": "item?id=7348569",
+    "rank": 108,
+    "score": 5,
+    "user": "tonyblundell",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "AmigaOS inspired website",
+    "link": "http://thedecibelkid.com/",
+    "rank": 109,
+    "score": 3,
+    "user": "magentaplacenta",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "Ask HN: My boss lowered my salary to make me more motivated",
+    "link": "item?id=7348859",
+    "rank": 110,
+    "score": 40,
+    "user": "bnt",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "How to tell your story to investors",
+    "link": "http://blog.thesecretofraisingmoney.com/storytelling/",
+    "rank": 111,
+    "score": 8,
+    "user": "iterable",
+    "time": "2014-03-05-200004"
+  },
+  {
+    "title": "TDD is Behavior Specification",
+    "link": "http://blog.originate.com/blog/2014/02/20/tdd-is-bs",
+    "rank": 112,
+    "score": 14,
+    "user": "kevingoslar",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Swiftype Adds Live Analytics And Other Features For Marketers",
+    "link": "http://techcrunch.com/2014/03/05/swiftype-live-analytics/",
+    "rank": 113,
+    "score": 12,
+    "user": "qhoxie",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Peer5 Downloader: Peer-assisted file downloads using WebRTC",
+    "link": "http://peer5.com/downloader/land.html",
+    "rank": 114,
+    "score": 12,
+    "user": "whadar",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Anthropomorphizing Programming Languages",
+    "link": "http://www.lauradhamilton.com/anthropomorphizing-programming-languages",
+    "rank": 115,
+    "score": 4,
+    "user": "lauradhamilton",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "Goat Simulator heads to Steam April 1",
+    "link": "http://www.polygon.com/2014/3/4/5471470/goat-simulator-heads-to-steam-april-1",
+    "rank": 116,
+    "score": 11,
+    "user": "ansimionescu",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "No more Haml or CoffeeScript",
+    "link": "http://kirillzubovsky.com/no-more-haml-or-coffeescript/",
+    "rank": 117,
+    "score": 61,
+    "user": "kirillzubovsky",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "What is a Web Framework?",
+    "link": "http://www.jeffknupp.com/blog/2014/03/03/what-is-a-web-framework/",
+    "rank": 118,
+    "score": 133,
+    "user": "mgrouchy",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Microsoft makes it official: We're all in with Android | Computerworld Blogs",
+    "link": "http://blogs.computerworld.com/windows-phone/23604/microsoft-makes-it-official-were-all-android",
+    "rank": 119,
+    "score": 5,
+    "user": "asmosoinio",
+    "time": "2014-03-05-150004"
+  },
+  {
+    "title": "Engineer's Guide to US Visas",
+    "link": "http://blog.sourcing.io/visa-guide?",
+    "rank": 120,
+    "score": 221,
+    "user": "maccman",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Get a life—or face the consequences",
+    "link": "http://www.economist.com/blogs/freeexchange/2014/01/working-hours",
+    "rank": 121,
+    "score": 3,
+    "user": "sushirain",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Things You Should Know About Running MongoDB At Scale",
+    "link": "http://highscalability.com/blog/2014/3/5/10-things-you-should-know-about-running-mongodb-at-scale.html",
+    "rank": 122,
+    "score": 3,
+    "user": "jpmc",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Krita 2.8.0 Released",
+    "link": "http://krita.org/item/220-krita-2-8-0-released",
+    "rank": 123,
+    "score": 3,
+    "user": "agumonkey",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "How You Get Hundreds Of Twitter Followers In Days",
+    "link": "http://brenthalliburton.com/get-twitter-followers-fast/",
+    "rank": 124,
+    "score": 9,
+    "user": "bhalliburton",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Show HN: Password-Protect My File",
+    "link": "https://www.passwordprotectmyfile.com/",
+    "rank": 125,
+    "score": 8,
+    "user": "sobel",
+    "time": "2014-03-05-190004"
+  },
+  {
+    "title": "Mexican Protest Site Censored by GoDaddy with the U.S. Embassy's Help",
+    "link": "https://www.eff.org/deeplinks/2014/03/mexican-protest-site-censored-godaddy-us-embassys-help",
+    "rank": 126,
+    "score": 203,
+    "user": "Dondiego",
+    "time": "2014-03-05-020004"
+  },
+  {
+    "title": "Launch Your First Product – What Not to Do",
+    "link": "http://www.startupclarity.com/blog/launch-first-product-what-not-to-do/",
+    "rank": 127,
+    "score": 16,
+    "user": "axelbouaziz",
+    "time": "2014-03-05-160004"
+  },
+  {
+    "title": "Rails – The Missing Parts",
+    "link": "http://eng.joingrouper.com/blog/2014/03/03/rails-the-missing-parts-interactors",
+    "rank": 128,
+    "score": 181,
+    "user": "tomblomfield",
+    "time": "2014-03-04-010004"
+  },
+  {
+    "title": "Bitcoin firm CEO found dead in suspected suicide",
+    "link": "http://nypost.com/2014/03/05/bitcoin-firm-ceo-found-dead-in-suspected-suicide/",
+    "rank": 129,
+    "score": 8,
+    "user": "jnazario",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Sunsetting MetroTwit: all good things must come to an end",
+    "link": "http://www.metrotwit.com/2014/03/sunsetting-metrotwit-all-good-things-must-come-to-an-end/",
+    "rank": 130,
+    "score": 5,
+    "user": "xPaw",
+    "time": "2014-03-05-110004"
+  },
+  {
+    "title": "Show HN: Translate your content directly from Google Drive with the Unbabel API",
+    "link": "http://blog.unbabel.com/post/78660646822/translate-your-content-directly-from-google-drive-with",
+    "rank": 131,
+    "score": 8,
+    "user": "vasco_",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "How to Make a No. 1 App With $99 and Three Hours of Work",
+    "link": "http://www.wired.com/gamelife/2014/03/flappy-bird-clones/",
+    "rank": 132,
+    "score": 3,
+    "user": "RougeFemme",
+    "time": "2014-03-05-130004"
+  },
+  {
+    "title": "Show HN: How to install Keen IO Analytics into Node.js apps in mere seconds",
+    "link": "https://keen.io/blog/78561215787/how-to-install-keen-io-analytics-into-your-node-js-app",
+    "rank": 133,
+    "score": 14,
+    "user": "lhnz",
+    "time": "2014-03-05-140004"
+  },
+  {
+    "title": "Lessons learnt building ViziCities",
+    "link": "https://hacks.mozilla.org/2014/03/lessons-learnt-building-vizicities/",
+    "rank": 134,
+    "score": 4,
+    "user": "rnyman",
+    "time": "2014-03-05-100004"
+  },
+  {
+    "title": "Ask HN: Automation in IT",
+    "link": "item?id=7346749",
+    "rank": 135,
+    "score": 5,
+    "user": "jpd750",
+    "time": "2014-03-05-140004"
+  },
+  {
+    "title": "GnuTLS certificate verification vulnerability announced (CVE-2014-0092)",
+    "link": "item?id=7338389",
+    "rank": 136,
+    "score": 57,
+    "user": "mpyne",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Ask HN: Heroku or AWS or?",
+    "link": "item?id=7344466",
+    "rank": 137,
+    "score": 13,
+    "user": "bryang",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Trading knowledge I accumulated over the last couple of years",
+    "link": "https://thinkery.me/nader/53172b621cb6025b0a0127c7",
+    "rank": 138,
+    "score": 34,
+    "user": "nader",
+    "time": "2014-03-05-150004"
+  },
+  {
+    "title": "Projection-Based Olfactory Display",
+    "link": "http://vrlab.meijo-u.ac.jp/research/ScentProjector/index.html",
+    "rank": 139,
+    "score": 4,
+    "user": "bromagosa",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Ask HN: Do you consider anyone a pioneer in computer science since 1990?",
+    "link": "item?id=7347910",
+    "rank": 140,
+    "score": 7,
+    "user": "ilbe",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "Jumpstarter launches “next-gen hosting”, promising sub-second server spin-up",
+    "link": "http://gigaom.com/2014/03/05/jumpstarter-launches-next-gen-hosting-platform-promising-sub-second-server-spin-up/",
+    "rank": 141,
+    "score": 25,
+    "user": "ciaranoleary",
+    "time": "2014-03-05-170004"
+  },
+  {
+    "title": "XKCD Now - world time zone converter based on XKCD comic #1335",
+    "link": "http://www.xkcdnow.com",
+    "rank": 142,
+    "score": 5,
+    "user": "wauter",
+    "time": "2014-03-05-130004"
+  },
+  {
+    "title": "Going Through Y Combinator (YC S13): Lessons Learned",
+    "link": "http://blog.zactownsend.com/going-through-y-combinator-s13-nine-lessons-learned",
+    "rank": 143,
+    "score": 130,
+    "user": "zt",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "Eating too much meat and eggs is ‘just as bad as smoking’, claim scientists",
+    "link": "http://www.independent.co.uk/life-style/health-and-families/health-news/eating-animal-protein-may-be-as-harmful-as-smoking-scientists-claim-9169335.html",
+    "rank": 144,
+    "score": 5,
+    "user": "suprgeek",
+    "time": "2014-03-05-180004"
+  },
+  {
+    "title": "Sprint sued by Feds for fraudulent cellphone tapping overcharge",
+    "link": "http://www.electronista.com/articles/14/03/03/sprint.alleged.to.have.overcharged.for.illegal.equipment.install/",
+    "rank": 145,
+    "score": 66,
+    "user": "Istof",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "A Detailed Introduction To Custom Elements",
+    "link": "http://coding.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/",
+    "rank": 146,
+    "score": 32,
+    "user": "prajjwal",
+    "time": "2014-03-05-010004"
+  },
+  {
+    "title": "The perovskite lightbulb moment for solar power",
+    "link": "http://www.theguardian.com/technology/2014/mar/02/perovskite-lightbulb-moment-abundant-solar-power-britain",
+    "rank": 147,
+    "score": 127,
+    "user": "AndrewDucker",
+    "time": "2014-03-03-010004"
+  },
+  {
+    "title": "Yahoo to End Facebook, Google Sign-In on Its Web Properties",
+    "link": "http://recode.net/2014/03/04/yahoo-to-end-facebook-google-sign-in-on-its-web-properties/",
+    "rank": 148,
+    "score": 50,
+    "user": "alook",
+    "time": "2014-03-05-050004"
+  },
+  {
+    "title": "Hum",
+    "link": "https://letshum.com",
+    "rank": 149,
+    "score": 235,
+    "user": "jonkratz",
+    "time": "2014-03-03-010004"
+  },
+  {
+    "title": "Humble Bundle Post Mortem",
+    "link": "http://blog.pocketwatchgames.com/post/78594124321/humble-bundle-post-mortem-750k-monacos-sold",
+    "rank": 150,
+    "score": 3,
+    "user": "CrazedGeek",
+    "time": "2014-03-05-070004"
+  }
+]
