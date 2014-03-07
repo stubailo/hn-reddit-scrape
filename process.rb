@@ -30,6 +30,8 @@ CSV.open("out.csv", "wb") do |csv|
               user = post_data["author"]
               time = post_data["created_utc"]
 
+              title = title.gsub(/[^0-9A-Za-z]/, ' ')
+
               csv << [title, link, rank, score, user, time, source, date, is_reddit]
             end
           else
@@ -42,9 +44,11 @@ CSV.open("out.csv", "wb") do |csv|
               rank = item["rank"]
               score = item["score"]
               user = item["user"]
-              time = DateTime.strptime(item["time"]+" UTC", "%Y-%m-%d-%H%M%S %Z").to_time.to_i
+              time = DateTime.strptime(item["time"]+" UTC", "%Y-%m-%d-%H%M%S %Z").to_time.to_i 
 
-              csv << [title, link, rank, score, user, time, source, date, is_reddit]
+              title = title.gsub(/[^0-9A-Za-z]/, ' ')
+
+              csv << [title, link, rank, score, user, time, source, date, is_reddit]           
             end
           end
         end
