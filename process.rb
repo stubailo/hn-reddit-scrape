@@ -3,14 +3,14 @@ require "json"
 require "csv"
 
 CSV.open("out.csv", "wb") do |csv|
-  csv << ["Title", "Link", "Rank", "Score", "User", "Time"]
+  csv << ["Title", "Link", "Rank", "Score", "User", "Time", "Source", "Date Scraped", "Reddit?"]
 
   Dir.foreach("json") do |name|
     unless name.start_with? "."
       if name.split("-")[4] == "00"
         File.open("json/" + name) do |f|
           date = name.split("_")[0]
-          date = DateTime.strptime(date, "%Y-%m-%d-%H-%M-%S")
+          date = DateTime.strptime(date + " UTC", "%Y-%m-%d-%H-%M-%S %Z").to_time.to_i
 
           data = JSON.load(f)
 
@@ -30,7 +30,7 @@ CSV.open("out.csv", "wb") do |csv|
               user = post_data["author"]
               time = post_data["created_utc"]
 
-              csv << [title, link, rank, score, user, time]
+              csv << [title, link, rank, score, user, time, source, date, is_reddit]
             end
           else
             is_reddit = false
@@ -44,7 +44,7 @@ CSV.open("out.csv", "wb") do |csv|
               user = item["user"]
               time = DateTime.strptime(item["time"]+" UTC", "%Y-%m-%d-%H%M%S %Z").to_time.to_i
 
-              csv << [title, link, rank, score, user, time]
+              csv << [title, link, rank, score, user, time, source, date, is_reddit]
             end
           end
         end
